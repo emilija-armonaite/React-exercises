@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "pavadinimas": "Obuolys",
+        "aprasymas": "Lietuviški obuoliai",
+        "kaina": 0.99,
+        "kategorija": "vaisiai",
+        "nuotrauka": ""
+    },
+    {
+        "id": 2,
+        "pavadinimas": "Kriaušė",
+        "aprasymas": "Skanios kriaušės",
+        "kaina": 1.12,
+        "kategorija": "vaisiai",
+        "nuotrauka": ""
+    },
+    {
+        "id": 3,
+        "pavadinimas": "Slyva",
+        "aprasymas": "Pačios skaniausios slyvos",
+        "kaina": 9.12,
+        "kategorija": "vaisiai",
+        "nuotrauka": ""
+    },
+    {
+        "id": 4,
+        "pavadinimas": "Bananas",
+        "aprasymas": "Skanūs bananai",
+        "kaina": 3.01,
+        "kategorija": "vaisiai",
+        "nuotrauka": ""
+    },
+    {
+        "id": 5,
+        "pavadinimas": "Bulvė",
+        "aprasymas": "Puikios lietuviškos bulvės",
+        "kaina": 4.01,
+        "kategorija": "daržovė",
+        "nuotrauka": ""
+    },
+    {
+        "id": 6,
+        "pavadinimas": "Moliūgas",
+        "aprasymas": "Ne tik helovynui",
+        "kaina": 7.01,
+        "kategorija": "daržovė",
+        "nuotrauka": ""
+    }
+]
